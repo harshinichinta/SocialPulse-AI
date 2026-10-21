@@ -1,0 +1,17 @@
+post_id,text,timestamp,platform,brand
+S001,"I love the new Aurora phone camera, amazing photos",2026-10-01T09:00:00Z,Forum,Aurora
+S002,"Aurora battery life is great and setup was easy",2026-10-01T12:00:00Z,Forum,Aurora
+S003,"The Aurora update is broken and the app is slow",2026-10-02T09:30:00Z,Microblog,Aurora
+S004,"I am happy with the helpful Aurora support team",2026-10-03T10:00:00Z,Forum,Aurora
+S005,"Aurora camera quality is excellent after the update",2026-10-04T11:00:00Z,Microblog,Aurora
+S006,"The delivery was late and customer service was poor",2026-10-08T08:00:00Z,Forum,Northstar
+S007,"Northstar support solved my issue, thank you",2026-10-09T13:00:00Z,Microblog,Northstar
+S008,"My Northstar order arrived late again, very disappointed",2026-10-10T15:00:00Z,Forum,Northstar
+S009,"Northstar refund process is slow and frustrating",2026-10-11T12:00:00Z,Microblog,Northstar
+S010,"The new Aurora battery feature is useful and brilliant",2026-10-15T09:00:00Z,Forum,Aurora
+S011,"Aurora camera update is amazing, I love it",2026-10-16T10:00:00Z,Microblog,Aurora
+S012,"Aurora battery drains fast after the latest update",2026-10-17T14:00:00Z,Forum,Aurora
+S013,"Northstar order tracking page has a problem",2026-10-18T16:00:00Z,Microblog,Northstar
+S014,"Northstar delivery delay is annoying and unacceptable",2026-10-19T17:00:00Z,Forum,Northstar
+S015,"Reading about the Aurora launch today",2026-10-20T10:00:00Z,Microblog,Aurora
+
